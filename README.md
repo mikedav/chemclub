@@ -7,6 +7,7 @@
 <p>(misha loh)</p>
 </h6>
 </H1>
+<background="http://bgfons.com/upload/smoke_texture2737.jpg">
 <H2>
 <STRONG>they are following u</STRONG>
 </H2>
