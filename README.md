@@ -1,9 +1,4 @@
-<!DOCTYPE HTML>
-<HTML>
-<HEAD>
-<TITLE>
-MYWEBPAGE
-</TITLE>
+
 </HEAD>
 <BODY>
 <H1>
