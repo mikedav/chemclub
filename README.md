@@ -13,6 +13,5 @@
 </H2>
 <a href="https://giseo.rkomi.ru/asp/Curriculum/Assignments.asp"> My liceum's site :) </a>
 <img src="http://www.readandpost.ru/wp-content/uploads/2016/03/3d-graffiti-ot-portugalskogo-hudozhnika-odeith-1.jpg" />
-FUG U
 </BODY>
 </HTML>
