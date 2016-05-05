@@ -1,3 +1,19 @@
-h1 {
-    color:red;
+div {
+    border:1px solid black;
+}
+header {
+    width: 10%;
+    position:fixed;
+    left:0px;
+    top:0px;
+    bottom: 0px;
+    background-color: lightgrey;
+}
+#content {
+    position:absolute;
+    left: 11%;
+    background-color: darkgray;
+}
+body {
+    background-color: gray;
 }
