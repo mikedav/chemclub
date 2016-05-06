@@ -1,5 +1,7 @@
 <?php
 require_once "../php/src/login.php";
+require_once "../php/header.php";
+
 if(isset($_GET["logout"])) {
     if (session_status() == PHP_SESSION_NONE) session_start();
     session_destroy();
